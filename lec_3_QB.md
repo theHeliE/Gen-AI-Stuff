@@ -10,8 +10,7 @@
 2.  A **\*\***\_\_\_\_\_\_**\*\*** Path is defined as a simple path that does not appear as a proper subpath of any other simple path.
 3.  In Input Space Partitioning, the inputs to a program are divided into partitions which typically contain sets of **\*\***\_\_\_\_\_\_**\*\***.
 4.  Two critical properties that partitions must satisfy are **\*\***\_\_\_\_\_\_**\*\*** and Completeness (covers all inputs).
-5.  **\*\***\_\_\_\_\_\_**\*\***-Based Input Domain Modeling derives characteristics directly from the type of the input parameters.
-6.  **\*\***\_\_\_\_\_\_**\*\***-Based Input Domain Modeling derives characteristics from the intended behavior or semantics of the software.
+
 7.  **\*\***\_\_\_\_\_\_**\*\*** Combinations coverage requires that every combination of blocks from all characteristics be used.
 8.  **\*\***\_\_\_\_\_\_**\*\*** Choice coverage uses a "base" test by selecting the simplest or most likely value for each characteristic and varying one parameter at a time.
 9.  **\*\***\_\_\_\_\_\_**\*\***-Wise coverage requires that every pair of values from any two parameters appears in at least one test case.
@@ -41,11 +40,7 @@
     C. $\sum B_i$
     D. $M + \sum (M * (B_i - m_i))$
 
-16. **Which Input Domain Modeling approach requires more design effort but typically results in better tests?**
-    A. Interface-Based (IDM)
-    B. Functionality-Based (FDM)
-    C. Random Testing
-    D. Syntax-Based Modeling
+
 
 17. **If you have characteristics with blocks {A, B} and {1, 2, 3}, which criterion would require the most test cases?**
     A. Each Choice (EC)
@@ -63,8 +58,7 @@
 2. Prime
 3. Blocks
 4. Disjointness
-5. Interface
-6. Functionality
+
 7. All
 8. Base
 9. Pair
@@ -72,5 +66,6 @@
 11. Simple
 12. Each
 
-**Part 2** 13. B 14. C 15. B 16. B 17. D
+**Part 2** 13. B 14. C 15. B  17. D
+
 
