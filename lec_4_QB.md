@@ -28,11 +28,6 @@
 
 ## **Part 2: Multiple Choice Questions (30%)**
 
-18. **According to the Test Automation Pyramid, which layer should have the fewest number of tests?**
-    A. Unit Tests
-    B. API / Service Tests
-    C. UI / E2E Tests
-    D. Database Tests
 
 19. **Which of the following is a valid criterion for selecting an automation tool?**
     A. It must be the most expensive tool available.
@@ -94,5 +89,6 @@
 16. Selenium
 17. ROI (Return on Investment)
 
-**Part 2** 18. C 19. B 20. C 21. B 22. B 23. B 24. C
+**Part 2** 19. B 20. C 21. B 22. B 23. B 24. C
+
 
