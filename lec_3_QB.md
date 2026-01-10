@@ -8,16 +8,16 @@
 
 1.  A path from node $n_i$ to $n_j$ is considered **\*\***\_\_\_\_\_\_**\*\*** if no node appears more than once, except possibly the first and last nodes are the same.
 2.  A **\*\***\_\_\_\_\_\_**\*\*** Path is defined as a simple path that does not appear as a proper subpath of any other simple path.
-3.  In Input Space Partitioning, the inputs to a program are divided into partitions which typically contain sets of **\*\***\_\_\_\_\_\_**\*\*** (or characteristic inputs).
-4.  Two critical properties that partitions must satisfy are **\*\***\_\_\_\_\_\_**\*\*** (no overlap) and Completeness (covers all inputs).
-5.  **\*\***\_\_\_\_\_\_**\*\***-Based Input Domain Modeling (IDM) derives characteristics directly from the type of the input parameters.
-6.  **\*\***\_\_\_\_\_\_**\*\***-Based Input Domain Modeling (FDM) derives characteristics from the intended behavior or semantics of the software.
-7.  **\*\***\_\_\_\_\_\_**\*\*** Combinations (AC) coverage requires that every combination of blocks from all characteristics be used.
-8.  **\*\***\_\_\_\_\_\_**\*\*** Choice (BC) coverage uses a "base" test by selecting the simplest or most likely value for each characteristic and varying one parameter at a time.
-9.  **\*\***\_\_\_\_\_\_**\*\***-Wise (PW) coverage requires that every pair of values from any two parameters appears in at least one test case.
-10. **\*\***\_\_\_\_\_\_**\*\*** Base Choice (MBC) is a criterion where one or more base choice blocks are chosen for each characteristic.
+3.  In Input Space Partitioning, the inputs to a program are divided into partitions which typically contain sets of **\*\***\_\_\_\_\_\_**\*\***.
+4.  Two critical properties that partitions must satisfy are **\*\***\_\_\_\_\_\_**\*\*** and Completeness (covers all inputs).
+5.  **\*\***\_\_\_\_\_\_**\*\***-Based Input Domain Modeling derives characteristics directly from the type of the input parameters.
+6.  **\*\***\_\_\_\_\_\_**\*\***-Based Input Domain Modeling derives characteristics from the intended behavior or semantics of the software.
+7.  **\*\***\_\_\_\_\_\_**\*\*** Combinations coverage requires that every combination of blocks from all characteristics be used.
+8.  **\*\***\_\_\_\_\_\_**\*\*** Choice coverage uses a "base" test by selecting the simplest or most likely value for each characteristic and varying one parameter at a time.
+9.  **\*\***\_\_\_\_\_\_**\*\***-Wise coverage requires that every pair of values from any two parameters appears in at least one test case.
+10. **\*\***\_\_\_\_\_\_**\*\*** Base Choice is a criterion where one or more base choice blocks are chosen for each characteristic.
 11. If a graph has internal loops, a path that traverses the loop more than once cannot be a **\*\***\_\_\_\_\_\_**\*\*** path.
-12. **\*\***\_\_\_\_\_\_**\*\*** Coverage (EC) requires that every block in every characteristic be used in at least one test case.
+12. **\*\***\_\_\_\_\_\_**\*\*** Coverage requires that every block in every characteristic be used in at least one test case.
 
 ---
 
@@ -73,3 +73,4 @@
 12. Each
 
 **Part 2** 13. B 14. C 15. B 16. B 17. D
+
